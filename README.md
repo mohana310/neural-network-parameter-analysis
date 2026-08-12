@@ -1,7 +1,5 @@
- 
----
 
-```markdown
+
 <div align="center">
 
 # 🧠 Neural Network Parameter Analysis
